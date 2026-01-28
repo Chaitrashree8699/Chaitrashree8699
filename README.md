@@ -11,7 +11,8 @@ I like understanding both functional and technical requirements to build effecti
 
 - **Languages & Tools:** Java, Python  
 - **Frameworks / Libraries:** LLM (AI tools), Gen AI  
-- **Areas of Interest:** AI & ML, Simulation Development, Web Development
+- **Areas of Interest:**  Bridging Functional and Technical Requirements, Application Development, AI & Machine Learning
+
 
 ---
 
